@@ -1,2 +1,2 @@
 # test_vishal
-# omkar gavade is not a good developer and not a programmer
+# omkar gavade is a good developer and not a programmer
